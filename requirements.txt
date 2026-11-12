@@ -1,0 +1,3 @@
+#NOTE: python version 3.14.5 was used while making this project
+streamlit=1.62.0
+

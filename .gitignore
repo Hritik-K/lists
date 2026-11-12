@@ -1,0 +1,8 @@
+__pycache__/
+.lists/
+.vscode/
+
+todo.txt
+*.db
+notes
+run_app.*
